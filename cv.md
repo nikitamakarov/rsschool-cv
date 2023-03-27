@@ -54,3 +54,7 @@ router bgp 64512
 
 On demand.
 
+## Education
+
+Sufficient.
+
