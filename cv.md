@@ -10,3 +10,7 @@ On demand
 
 Some experience with backend and infrastructure. Learning frontend to enter the brave new world of full-stack development.
 
+## Skills
+
+IT infrastructure, cloud, devops, backend
+
